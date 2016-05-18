@@ -1,0 +1,19 @@
+{
+  "name": "ng-galleria",
+  "version": "2.0.0",
+  "description": "Angular galleria directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairus2k/ng-galleria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sairus2k/ng-galleria/issues"
+  },
+  "homepage": "https://github.com/sairus2k/ng-galleria#readme"
+}
